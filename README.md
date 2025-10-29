@@ -6,8 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geezam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=geezam&theme=dark)
-
 
 <!---
 Geezam/Geezam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
